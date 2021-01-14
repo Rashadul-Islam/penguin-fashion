@@ -1,0 +1,56 @@
+body{
+  font-family: 'Anton', sans-serif;
+  font-family: 'Oswald', sans-serif;
+}
+h3{
+  font-size: 35px;
+  color: brown;
+  font-weight: bold;
+}
+h4{
+  color: olive;
+  font-size: 40px;
+  font-weight: bold;
+}
+h5{
+  color: olive;
+  font-weight: bold;
+}
+p{
+  font-size: 18px;
+}
+.nav-fix a{
+ margin-left: 40px;
+}
+.btn-icon{
+  width: 35px;
+  padding-right: 5px;
+}
+.buy-button{
+  padding: 10px 20px;
+  border-radius: .5em;
+  border: 0;
+  background-color: tomato;
+  color: white;
+}
+.penguin-card{
+  border: 0;
+  border-radius: 1em;
+}
+.penguin-card-image{
+  height: 350px;
+  border-radius: 1em;
+  background-color: rgb(227, 240, 240);
+}
+.penguin-card-image img{
+  height: 270px;
+  width: 250px;
+}
+.penguin-card-footer{
+  border: 0;
+  background-color: white;
+}
+.carousel-image{
+  height: 350px;
+  width: 250px;
+}
